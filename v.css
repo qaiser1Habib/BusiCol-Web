@@ -20,7 +20,7 @@ html{
 #section1::before {
     content: "";
     position: absolute;
-    background: url(img/bg1.jpg) no-repeat center center/cover;
+    background: url('https://drive.google.com/file/d/1LpX4uZb16bYAuqX9eCKzAnyB9Uc7BMjt/view?usp=share_link') no-repeat center center/cover;
     top: 0px;
     left: 0px;
     height: 1000px;
