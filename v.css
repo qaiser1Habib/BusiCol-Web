@@ -5,7 +5,7 @@
 }
 
 html{
-    scroll-behavior: smooth;
+    scroll-behavior: sm;
 }
 
 #header {
@@ -20,7 +20,7 @@ html{
 #section1::before {
     content: "";
     position: absolute;
-    background: url('https://drive.google.com/file/d/1LpX4uZb16bYAuqX9eCKzAnyB9Uc7BMjt/view?usp=share_link') no-repeat center center/cover;
+    background: url('https://images.unsplash.com/photo-1518644730709-0835105d9daa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80') no-repeat center center/cover;
     top: 0px;
     left: 0px;
     height: 1000px;
